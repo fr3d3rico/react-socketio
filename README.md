@@ -1,3 +1,3 @@
 # react-socketio
-ReactJs + Socket.io + ExpressJs + Redis
+ReactJs + Socket.io + ExpressJs
 :D
